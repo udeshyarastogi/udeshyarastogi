@@ -25,15 +25,36 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=udeshyarastogi&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=udeshyarastogi&show_icons=true&locale=en" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=udeshyarastogi" alt="GitHub Streak" /></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udeshyarastogi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=udeshyarastogi&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=udeshyarastogi&theme=tokyonight" alt="GitHub Streak" />
+    </td>
   </tr>
 </table>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=udeshyarastogi&label=Profile%20views&color=0e75b6&style=flat" alt="udeshyarastogi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udeshyarastogi" alt="udeshyarastogi" /></a> </p>
+<!-- Profile Views Counter (Dark-Friendly Color) -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=udeshyarastogi&label=Profile%20views&color=brightgreen&style=flat" alt="udeshyarastogi" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- GitHub Profile Trophy (Dark Theme: onedark) -->
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=udeshyarastogi&theme=onedark" alt="udeshyarastogi" />
+  </a>
+</p>
+
+<!-- Twitter Follow Badge (Dark Background Colors) -->
+<p align="left">
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&label=Follow&labelColor=0D1117&color=1DA1F2" alt="Twitter Follow" />
+  </a>
+</p>
+
