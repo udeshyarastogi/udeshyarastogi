@@ -51,10 +51,5 @@
   </a>
 </p>
 
-<!-- Twitter Follow Badge (Dark Background Colors) -->
-<p align="left">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&label=Follow&labelColor=0D1117&color=1DA1F2" alt="Twitter Follow" />
-  </a>
-</p>
+
 
